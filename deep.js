@@ -8,3 +8,6 @@ console.log("Hello, World!");
 
 # Ball sure become garden down.
 console.log("Hello, World!");
+
+# Line then best bed difference.
+console.log("Hello, World!");
