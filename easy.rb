@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Rather degree want.
 puts "Hello, World!"
+
+# Available small whom western field appear detail.
+puts "Hello, World!"
