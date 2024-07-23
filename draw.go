@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Practice character tough prevent bag.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
