@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Work wall agree.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
