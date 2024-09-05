@@ -8,3 +8,6 @@ console.log("Hello, World!");
 
 # Nearly tonight everybody student experience.
 console.log("Hello, World!");
+
+# Magazine even yes.
+console.log("Hello, World!");
