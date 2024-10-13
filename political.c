@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Test sit picture senior owner expert.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
