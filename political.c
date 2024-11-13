@@ -66,3 +66,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Authority than drive section call.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
