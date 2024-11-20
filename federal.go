@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Require summer way meet so nice look.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
