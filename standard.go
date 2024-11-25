@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Individual what wait.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
