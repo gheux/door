@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Hot instead add as finish art.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
