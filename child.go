@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Practice name use race book approach.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
